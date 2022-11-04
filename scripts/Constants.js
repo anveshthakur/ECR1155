@@ -1,0 +1,2 @@
+const IPFS_LINK="ipfs://bafybeib4tnidedb44fm67gtzcyovsus5uwr3m3inj5eqbxrgkpw7zo5rii/{id}.json";
+const NFT_STORAGE_LINK = "https://bafybeib4tnidedb44fm67gtzcyovsus5uwr3m3inj5eqbxrgkpw7zo5rii.ipfs.dweb.link/metadata/";
